@@ -1,0 +1,4 @@
+.env
+dev-link/
+.mypy_cache
+
